@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Behrad!
+# 👋 Hi, I'm Behrad!
 
 Welcome to my GitHub profile! I am a passionate dev in training @ McGill University who enjoys working on projects that solve real-world problems.
 
